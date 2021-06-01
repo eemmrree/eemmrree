@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eemmrree
 - 👀 I’m interested in C# , ASP.NET MVC , ASP.NET Core
 - 🌱 I’m currently learning ASP.NET CORE
-- 💞️ I’m looking to collaborate on Backend Developer
 - 📫 eemmrree0@outlook.com
 
 <!---

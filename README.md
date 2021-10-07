@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eemmrree" alt="eemmrree" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET Core , ASP.NET MVC , .NET**
+- 🌱 I’m currently learning **.NET , .NET Core , ASP.NET Core , ASP.NET MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eemmrree?tab=repositories](https://github.com/eemmrree?tab=repositories)
 

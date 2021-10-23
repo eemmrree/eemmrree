@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eemmrree" alt="eemmrree" /> </p>
 
-- 🌱 I’m currently learning **.NET , .NET Core , ASP.NET Core , ASP.NET MVC**
+![Alt Text](https://user-images.githubusercontent.com/54184905/120921819-43eb7880-c6ce-11eb-8fe5-3149c3af11c0.gif)
 
-- 👨‍💻 All of my projects are available at [https://github.com/eemmrree?tab=repositories](https://github.com/eemmrree?tab=repositories)
 
-- 📫 How to reach me **eemmrree0@outlook.com**
 
 
 <p align="left"> <a href="https://twitter.com/emrebcs" target="blank"><img src="https://img.shields.io/twitter/follow/emrebcs?logo=twitter&style=for-the-badge" alt="emrebcs" /></a> </p>
